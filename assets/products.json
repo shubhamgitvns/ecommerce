@@ -3,56 +3,56 @@
     {
       "id": 1,
       "name": "Silk Saree",
-      "image": "https://example.com/images/silk_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/1.jpg",
       "description": "Elegant red silk saree with golden zari border, perfect for weddings and special occasions.",
       "price": 1299.99
     },
     {
       "id": 2,
       "name": "Cotton Saree",
-      "image": "https://example.com/images/cotton_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/2.jpg",
       "description": "Lightweight cotton saree in pastel shades, ideal for daily wear and comfort.",
       "price": 699.99
     },
     {
       "id": 3,
       "name": "Banarasi Saree",
-      "image": "https://example.com/images/banarasi_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/3.jpg",
       "description": "Royal blue Banarasi saree with intricate brocade work, a timeless classic for festive events.",
       "price": 2499.99
     },
     {
       "id": 4,
       "name": "Chiffon Saree",
-      "image": "https://example.com/images/chiffon_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/4.jpg",
       "description": "Flowy chiffon saree in peach with floral prints, perfect for casual outings and evening wear.",
       "price": 899.99
     },
     {
       "id": 5,
       "name": "Georgette Saree",
-      "image": "https://example.com/images/georgette_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/5.jpg",
       "description": "Stylish black georgette saree with sequin work, suitable for parties and special occasions.",
       "price": 1599.99
     },
     {
       "id": 6,
       "name": "Kanchipuram Saree",
-      "image": "https://example.com/images/kanchipuram_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/6.jpg",
       "description": "Traditional Kanchipuram silk saree in vibrant purple with golden zari motifs.",
       "price": 3299.99
     },
     {
       "id": 7,
       "name": "Printed Saree",
-      "image": "https://example.com/images/printed_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/3.jpg",
       "description": "Colorful printed saree with abstract designs, a trendy choice for casual wear.",
       "price": 499.99
     },
     {
       "id": 8,
       "name": "Designer Saree",
-      "image": "https://example.com/images/designer_saree.jpg",
+      "image": "https://shubhamgitvns.github.io/ecommerce/assets/images/1.jpg",
       "description": "Exclusive designer saree with stone embellishments, ideal for high-end fashion events.",
       "price": 4599.99
     }
